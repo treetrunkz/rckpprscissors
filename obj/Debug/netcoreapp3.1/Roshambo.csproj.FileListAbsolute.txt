@@ -1,0 +1,11 @@
+C:\Users\Elli-A-nora\Documents\Roshambo\bin\Debug\netcoreapp3.1\Roshambo.exe
+C:\Users\Elli-A-nora\Documents\Roshambo\bin\Debug\netcoreapp3.1\Roshambo.deps.json
+C:\Users\Elli-A-nora\Documents\Roshambo\bin\Debug\netcoreapp3.1\Roshambo.runtimeconfig.json
+C:\Users\Elli-A-nora\Documents\Roshambo\bin\Debug\netcoreapp3.1\Roshambo.runtimeconfig.dev.json
+C:\Users\Elli-A-nora\Documents\Roshambo\bin\Debug\netcoreapp3.1\Roshambo.dll
+C:\Users\Elli-A-nora\Documents\Roshambo\bin\Debug\netcoreapp3.1\Roshambo.pdb
+C:\Users\Elli-A-nora\Documents\Roshambo\obj\Debug\netcoreapp3.1\Roshambo.csprojAssemblyReference.cache
+C:\Users\Elli-A-nora\Documents\Roshambo\obj\Debug\netcoreapp3.1\Roshambo.AssemblyInfoInputs.cache
+C:\Users\Elli-A-nora\Documents\Roshambo\obj\Debug\netcoreapp3.1\Roshambo.AssemblyInfo.cs
+C:\Users\Elli-A-nora\Documents\Roshambo\obj\Debug\netcoreapp3.1\Roshambo.dll
+C:\Users\Elli-A-nora\Documents\Roshambo\obj\Debug\netcoreapp3.1\Roshambo.pdb
